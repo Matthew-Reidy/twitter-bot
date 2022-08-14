@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/Matthew-Reidy/twitter-bot#readme",
   "dependencies": {
-    "fetch": "^1.1.0"
+    "@aws-sdk/client-lambda": "^3.148.0",
+    "dotenv": "^16.0.1",
+    "fetch": "^1.1.0",
+    "twitter-api-v2": "^1.12.3"
   }
 }
